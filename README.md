@@ -29,7 +29,7 @@ A lightweight, local-first coding assistant that reads your codebase and retriev
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/custom-code-agent-ollama.git
+git clone https://github.com/<your-username>/ai-custom-code-agent-ollama.git
 cd custom-code-agent-ollama
 
 # Replace your codebase here ./embed_repo.py
@@ -41,4 +41,5 @@ source venv/bin/activate  # On Windows: .venv\Scripts\activate.ps1
 
 # Install dependencies
 pip install -r requirements.txt
+
 
